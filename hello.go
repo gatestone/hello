@@ -1,5 +1,5 @@
 package main
-//test
+//test master only
 import "fmt"
 
 func main() {
