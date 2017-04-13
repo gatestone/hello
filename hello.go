@@ -1,9 +1,5 @@
 package main
-<<<<<<< HEAD
-//test master only
-=======
-
->>>>>>> experimental
+// comment at 06
 import "fmt"
 
 func main() {
